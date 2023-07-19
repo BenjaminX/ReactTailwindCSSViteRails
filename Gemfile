@@ -33,6 +33,14 @@ gem "jbuilder"
 # A Ruby gem to load environment variables from `.env`.
 gem 'dotenv-rails'
 
+# For Vite
+gem "vite_rails"
+gem "vite_ruby"
+gem "ruby-vips", "~> 2.1", ">= 2.1.4"
+gem "annotate", group: :development
+gem "devise"
+gem "name_of_person"
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 

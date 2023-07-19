@@ -1,0 +1,40 @@
+{
+  "entrypoints/application.js": {
+    "css": [
+      "assets/main-c7068a75.css"
+    ],
+    "file": "assets/application-f23de6a2.js",
+    "isEntry": true,
+    "src": "entrypoints/application.js"
+  },
+  "entrypoints/main.scss": {
+    "file": "assets/main-c7068a75.css",
+    "isEntry": true,
+    "src": "entrypoints/main.scss"
+  },
+  "entrypoints/stylesheets/_alert.scss": {
+    "file": "assets/_alert-f042a9d7.css",
+    "isEntry": true,
+    "src": "entrypoints/stylesheets/_alert.scss"
+  },
+  "entrypoints/stylesheets/_buttons.scss": {
+    "file": "assets/_buttons-1e8d5ee3.css",
+    "isEntry": true,
+    "src": "entrypoints/stylesheets/_buttons.scss"
+  },
+  "entrypoints/stylesheets/_form.scss": {
+    "file": "assets/_form-ca393736.css",
+    "isEntry": true,
+    "src": "entrypoints/stylesheets/_form.scss"
+  },
+  "entrypoints/stylesheets/_global.scss": {
+    "file": "assets/_global-0a475aff.css",
+    "isEntry": true,
+    "src": "entrypoints/stylesheets/_global.scss"
+  },
+  "entrypoints/stylesheets/_navbar.scss": {
+    "file": "assets/_navbar-06b87815.css",
+    "isEntry": true,
+    "src": "entrypoints/stylesheets/_navbar.scss"
+  }
+}
